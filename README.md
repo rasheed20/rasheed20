@@ -45,8 +45,9 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasheed20&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasheed20&locale=en&hide_title=false&layout=compact&card_width=180&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats-git-main-rasheed20s-projects.vercel.app/api?username=rasheed20&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasheed20&locale=en&hide_title=false&layout=compact&card_width=180&langs_count=10&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasheed20&theme=dracula" alt="GitHub Streak" /></p>
 </div>
 
