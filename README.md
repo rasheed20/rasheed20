@@ -4,19 +4,28 @@
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 ### 🚀 Quick Facts
-- 🔭 **Exploring:** AWS Advanced Services & Microservices Architecture
-- 🌱 **Mastering:** Java 21 Features & Cloud-Native Patterns
-- 💡 **Ask Me About:** Full-Stack Optimization Strategies
-- 🌍 **Location:** Jersey City, NJ | Open to Relocation
-- ⚡ **Fun Fact:** Founded photography club & STEM education programs
+
+- 🌱 I’m currently diving deeper into **AWS**, **React**, and **Java 17**.
+
+- 👯 I’m open to collaborating on **GIS, Cloud-Based, and Enterprise Software Projects**.
+
+- 💬 Feel free to ask me about **Full-Stack Development, Java Ecosystem, or My Startup Experiences**.
+
+- 📫 Reach me at **rasheedmd09@gmail.com**.
+
+- 🌍 Based in Jersey City, NJ, and  **open to Relocation**.
+
+- ⚡ Fun Fact: I led a photography club for 2 years and helped teach underprivileged students through a social initiative called 'Jagrithi.'
+
 
 ---
 
 <h3 align="left">📬 Connect With Me</h3>
-<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+<p align="left" style="display: flex; gap: 30px; flex-wrap: wrap;">
   <a href="mailto:rasheedmd09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  
   <a href="https://www.linkedin.com/in/rasheed09/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
